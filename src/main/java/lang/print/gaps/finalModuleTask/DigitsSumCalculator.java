@@ -2,7 +2,6 @@ package lang.print.gaps.finalModuleTask;
 
 public class DigitsSumCalculator {
     public void calculateSum(int number) {
-        int number = 1234;
 int thoun = number/1000;
 int thResult = thoun*1000;
 int sHund =number-thResult;
